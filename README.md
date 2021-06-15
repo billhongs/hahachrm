@@ -1,3 +1,5 @@
+哈哈，只是好玩！！！
+
 # ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium
 
 Chromium is an open-source browser project that aims to build a safer, faster,
